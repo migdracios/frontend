@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="354a5361-c322-4295-a7e2-673cbcabf392" name="Changes" comment="" />
+    <list default="true" id="354a5361-c322-4295-a7e2-673cbcabf392" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -71,6 +76,7 @@
       <workItem from="1642323983851" duration="3276000" />
       <workItem from="1642399192352" duration="216000" />
       <workItem from="1642399420096" duration="4865000" />
+      <workItem from="1644154293335" duration="335000" />
     </task>
     <servers />
   </component>
